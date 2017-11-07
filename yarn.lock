@@ -4249,11 +4249,7 @@ miller-rabin@^4.0.0:
     bn.js "^4.0.0"
     brorand "^1.0.1"
 
-"mime-db@>= 1.30.0 < 2":
-  version "1.31.0"
-  resolved "http://registry.npm.taobao.org/mime-db/download/mime-db-1.31.0.tgz#a49cd8f3ebf3ed1a482b60561d9105ad40ca74cb"
-
-mime-db@~1.30.0:
+"mime-db@>= 1.30.0 < 2", mime-db@~1.30.0:
   version "1.30.0"
   resolved "http://registry.npm.taobao.org/mime-db/download/mime-db-1.30.0.tgz#74c643da2dd9d6a45399963465b26d5ca7d71f01"
 
@@ -5364,13 +5360,6 @@ rc@^1.0.1, rc@^1.1.6, rc@^1.1.7:
     ini "~1.3.0"
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
-
-react-app-rewire-less@^2.0.9:
-  version "2.0.9"
-  resolved "http://registry.npm.taobao.org/react-app-rewire-less/download/react-app-rewire-less-2.0.9.tgz#f2f9e135cd7ff29cc927fe1be5bd468ac9364a05"
-  dependencies:
-    less "^2.7.3"
-    less-loader "^4.0.5"
 
 react-app-rewired@^1.3.4:
   version "1.3.4"

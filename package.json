@@ -1,5 +1,10 @@
 {
   "name": "antd-mobile-demo",
+  "keywords": [
+    "antd-mobile",
+    "react",
+    "create-react-app"
+  ],
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +23,8 @@
     "babel-eslint": "^8.0.2",
     "babel-plugin-import": "^1.6.2",
     "eslint-config-airbnb": "^16.1.0",
-    "react-app-rewire-less": "^2.0.9",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
     "react-app-rewired": "^1.3.4"
   }
 }
